@@ -8,7 +8,7 @@ https://docs.expo.io/bare/using-expo-client/
 ``` 
 ## Preview - 
 
-<img src="src/Hnet-image (2).gif" width="300">
+<img src="src/screenshoot/Hnet-image (2).gif" width="300">
 
 ## Dependencies
 - React Native
