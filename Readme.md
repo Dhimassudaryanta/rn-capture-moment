@@ -37,4 +37,4 @@ $ npm install
 $ npm start
 ```
 
-Let me know if you have trouble : fadhiilfarhan@gmail.com
+Let me know if you have trouble : dhimassudaryanta@gmail.com
